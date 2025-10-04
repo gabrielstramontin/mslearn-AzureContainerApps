@@ -4,7 +4,7 @@ For more information about this Microsoft Applied Skills, please check **[Micros
 ### Prepare for your assessment:
 **[AZ-2003 Learning Path](https://learn.microsoft.com/en-us/training/paths/deploy-cloud-native-applications-to-azure-container-apps/)**
 
-**[Labs Exercises](https://microsoftlearning.github.io/az-2003-deploy-cloud-native-applications-using-azure-container-apps/Instructions/Labs/LAB_AK_01_deploy_manage_container_app_azure_container_apps.html)**
+**[Hands-On Labs](https://microsoftlearning.github.io/az-2003-deploy-cloud-native-applications-using-azure-container-apps/Instructions/Labs/LAB_AK_01_deploy_manage_container_app_azure_container_apps.html)**
 - Exercise 01: Configure Azure resources.
 - Exercise 02: Configure developer tools in the host environment.
 - Exercise 03: Create and configure app deployment resources.
